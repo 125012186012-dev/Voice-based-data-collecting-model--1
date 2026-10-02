@@ -1,0 +1,92 @@
+[
+  {
+    "course_id": "TR001",
+    "course_name": "Web Development",
+    "sector": "IT-ITeS",
+    "minimum_education": "12th",
+    "required_skills": ["basic computer"],
+    "interests": ["web development", "coding", "technology"],
+    "career_options": ["Web Developer", "Frontend Developer", "Junior Software Developer"]
+  },
+  {
+    "course_id": "TR002",
+    "course_name": "Data Entry Operator",
+    "sector": "IT-ITeS",
+    "minimum_education": "10th",
+    "required_skills": ["basic computer", "typing"],
+    "interests": ["computer", "office work", "data entry"],
+    "career_options": ["Data Entry Operator", "Office Assistant", "Computer Operator"]
+  },
+  {
+    "course_id": "TR003",
+    "course_name": "Electrician",
+    "sector": "Electrical",
+    "minimum_education": "10th",
+    "required_skills": ["basic electrical"],
+    "interests": ["electrical", "repair", "technical work"],
+    "career_options": ["Electrician", "Electrical Technician", "Maintenance Technician"]
+  },
+  {
+    "course_id": "TR004",
+    "course_name": "Mobile Phone Hardware Repair",
+    "sector": "Electronics",
+    "minimum_education": "10th",
+    "required_skills": ["basic electronics"],
+    "interests": ["mobile repair", "electronics", "repair"],
+    "career_options": ["Mobile Repair Technician", "Electronics Technician"]
+  },
+  {
+    "course_id": "TR005",
+    "course_name": "Tailoring",
+    "sector": "Apparel",
+    "minimum_education": "8th",
+    "required_skills": ["basic stitching"],
+    "interests": ["tailoring", "fashion", "clothing"],
+    "career_options": ["Tailor", "Assistant Tailor", "Self-employed Tailor"]
+  },
+  {
+    "course_id": "TR006",
+    "course_name": "Food Processing",
+    "sector": "Food Industry",
+    "minimum_education": "8th",
+    "required_skills": ["basic food handling"],
+    "interests": ["cooking", "food", "food business"],
+    "career_options": ["Food Processing Worker", "Food Production Assistant"]
+  },
+  {
+    "course_id": "TR007",
+    "course_name": "Beauty and Wellness",
+    "sector": "Beauty and Wellness",
+    "minimum_education": "8th",
+    "required_skills": ["basic communication"],
+    "interests": ["beauty", "wellness", "personal care"],
+    "career_options": ["Beauty Therapist", "Salon Assistant", "Wellness Assistant"]
+  },
+  {
+    "course_id": "TR008",
+    "course_name": "Automobile Service Technician",
+    "sector": "Automotive",
+    "minimum_education": "10th",
+    "required_skills": ["basic mechanical"],
+    "interests": ["automobile", "vehicles", "mechanical work"],
+    "career_options": ["Automobile Service Technician", "Automotive Mechanic"]
+  },
+  {
+    "course_id": "TR009",
+    "course_name": "Plumbing",
+    "sector": "Construction",
+    "minimum_education": "8th",
+    "required_skills": ["basic plumbing"],
+    "interests": ["plumbing", "construction", "repair"],
+    "career_options": ["Plumber", "Plumbing Assistant", "Maintenance Worker"]
+  },
+  {
+    "course_id": "TR010",
+    "course_name": "Agriculture and Farm Management",
+    "sector": "Agriculture",
+    "minimum_education": "8th",
+    "required_skills": ["basic agriculture"],
+    "interests": ["farming", "agriculture", "plants"],
+    "career_options": ["Farm Worker", "Agriculture Assistant", "Self-employed Farmer"]
+  }
+]
